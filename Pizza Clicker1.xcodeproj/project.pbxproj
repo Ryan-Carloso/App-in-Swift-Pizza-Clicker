@@ -14,6 +14,7 @@
 		E440F03B2BB1AC5C00BABAF1 /* Pizza_Clicker1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E440F03A2BB1AC5C00BABAF1 /* Pizza_Clicker1Tests.swift */; };
 		E440F0452BB1AC5C00BABAF1 /* Pizza_Clicker1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E440F0442BB1AC5C00BABAF1 /* Pizza_Clicker1UITests.swift */; };
 		E440F0472BB1AC5C00BABAF1 /* Pizza_Clicker1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E440F0462BB1AC5C00BABAF1 /* Pizza_Clicker1UITestsLaunchTests.swift */; };
+		E440F0562BB1BD7300BABAF1 /* SecondPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E440F0552BB1BD7300BABAF1 /* SecondPageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		E440F0402BB1AC5C00BABAF1 /* Pizza Clicker1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Pizza Clicker1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E440F0442BB1AC5C00BABAF1 /* Pizza_Clicker1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pizza_Clicker1UITests.swift; sourceTree = "<group>"; };
 		E440F0462BB1AC5C00BABAF1 /* Pizza_Clicker1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pizza_Clicker1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E440F0552BB1BD7300BABAF1 /* SecondPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondPageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				E440F0292BB1AC5900BABAF1 /* Pizza_Clicker1App.swift */,
 				E440F02B2BB1AC5900BABAF1 /* ContentView.swift */,
+				E440F0552BB1BD7300BABAF1 /* SecondPageView.swift */,
 				E440F02D2BB1AC5C00BABAF1 /* Assets.xcassets */,
 				E440F02F2BB1AC5C00BABAF1 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				E440F02C2BB1AC5900BABAF1 /* ContentView.swift in Sources */,
 				E440F02A2BB1AC5900BABAF1 /* Pizza_Clicker1App.swift in Sources */,
+				E440F0562BB1BD7300BABAF1 /* SecondPageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
